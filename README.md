@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🌱 I’m currently learning [AWS Services](https://aws.amazon.com/)
+- 🌱 I’m currently learning [AWS Services](https://aws.amazon.com/) and [Next.js](https://nextjs.org/)
 
 - 📫 How to reach me: **guicbdiniz@gmail.com** or [Linkedin](https://www.linkedin.com/in/guilherme-diniz-874a98136/)
 
