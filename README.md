@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🌱 I’m currently learning [AWS Services](https://aws.amazon.com/) and [Next.js](https://nextjs.org/)
+- 🌱 I’m currently learning [gRPC](https://grpc.io/) and [Protocol Buffers](https://protobuf.dev/)
 
 - 📫 How to reach me: **guicbdiniz@gmail.com** or [Linkedin](https://www.linkedin.com/in/guilherme-diniz-874a98136/)
 
