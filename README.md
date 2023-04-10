@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🌱 I’m currently learning [gRPC](https://grpc.io/) and [Protocol Buffers](https://protobuf.dev/)
+- 🌱 I’m currently learning [Tailwind CSS](https://tailwindcss.com/) and [Next.js](https://nextjs.org/)
 
 - 📫 How to reach me: **guicbdiniz@gmail.com** or [Linkedin](https://www.linkedin.com/in/guilherme-diniz-874a98136/)
 
