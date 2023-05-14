@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🌱 I’m currently learning [Tailwind CSS](https://tailwindcss.com/) and [Next.js](https://nextjs.org/)
+- 🌱 I’m currently revisiting [Java](https://dev.java/learn/) and [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612).
 
 - 📫 How to reach me: **guicbdiniz@gmail.com** or [Linkedin](https://www.linkedin.com/in/guilherme-diniz-874a98136/)
 
